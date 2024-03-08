@@ -1,0 +1,9 @@
+*{ margin:0px}
+#cabecera { text-align:center;font-size:30px;background-color:#fff3b0;height:90px;padding:20px 0px 0px 10px}
+#menu { font-size:15px;background-color:#ccd5ae; margin:10px; text-align:center}
+#contenido{font-size:20px;padding:20px;background-color:#faedcd;margin:10px;display:flex; justify-items:center;text-align:center;}
+#pie {font-size:15px;background-color:#caf0f8;margin:10px}
+.seccion2 {padding-left:20px;text-align:center;}
+a:hover{color:cyan}
+.bordes {padding-left:30px}
+.a {text-decoration:none}
